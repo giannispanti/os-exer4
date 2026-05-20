@@ -1,3 +1,4 @@
+# ECE NTUA, Operating Systems Spring 2026
 # Exercise 4 – Parallel Character Counter
 
 ## Architecture
